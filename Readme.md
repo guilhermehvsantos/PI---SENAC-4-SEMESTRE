@@ -18,6 +18,10 @@ ADASPStock é uma plataforma web para gerenciamento de estoque. Projetada para f
 - JavaScript
 - HTML/CSS
 
+## Apresentação - Vídeo 
+
+https://www.youtube.com/watch?v=3NbT76TXASU
+
 ## 📝 Autores - POO-2024-1-Equipe07
 
 [Caio Santos](https://github.com/caioio09)  
